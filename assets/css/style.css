@@ -7370,6 +7370,7 @@ textarea.form-control {
 }
 .process-item .process__desc {
   margin-bottom: 20px;
+  
 }
 .process-item:hover {
   box-shadow: 0px 5px 83px 0px rgba(9, 29, 62, 0.15);
