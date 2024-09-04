@@ -1968,7 +1968,7 @@ input[type=radio] {
 ------------------*/
 .social-icons {
   display: flex;
-  flex-wrap: wrap;
+  /* flex-wrap: wrap; */
   align-items: center;
 }
 .social-icons li {
