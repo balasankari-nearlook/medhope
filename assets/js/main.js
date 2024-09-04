@@ -317,3 +317,8 @@ $(function () {
     // [Zoom Effect on Hovering] Find it in shop-single-product.html
     $(".zoomin").imagezoomsl();
 });
+
+
+$(document).ready(function() {
+  $('#exampleModal').modal('show');
+});
